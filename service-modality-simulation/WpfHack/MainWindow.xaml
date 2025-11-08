@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfHack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="License Validator"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        Background="white">
+
+    <Grid>
+        <!-- Center 2x2 Image Grid -->
+        <Grid HorizontalAlignment="Stretch"
+              VerticalAlignment="Stretch">
+
+            <!-- Define 2x2 layout -->
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Top-Left Image -->
+            <Border BorderBrush="White" BorderThickness="0.5">
+                <Image Source="/WpfHack;component/Assets/a4.jpg" Stretch="UniformToFill" />
+            </Border>
+
+            <!-- Top-Right Image -->
+            <Border BorderBrush="White" BorderThickness="0.5" Grid.Column="1">
+                <Image Source="/WpfHack;component/Assets/a2.jpg" Stretch="UniformToFill" HorizontalAlignment="Center"
+       VerticalAlignment="Center"/>
+            </Border>
+
+            <!-- Bottom-Left Image -->
+            <Border BorderBrush="White" BorderThickness="0.5" Grid.Row="1">
+                <Image Source="/WpfHack;component/Assets/a1.jpg" Stretch="UniformToFill"/>
+            </Border>
+
+            <!-- Bottom-Right Image -->
+            <Border BorderBrush="White" BorderThickness="0.5" Grid.Row="1" Grid.Column="1">
+                <Image Source="/WpfHack;component/Assets/a3.jpg" Stretch="UniformToFill"/>
+            </Border>
+        </Grid>
+
+        <!-- Floating Validate Button -->
+        <Button Content="🔑 Validate License"
+                Width="180" Height="40"
+                HorizontalAlignment="Right" VerticalAlignment="Top"
+                Margin="0,20,20,0"
+                Background="#A7D3F5"
+                Foreground="Black"
+                FontWeight="SemiBold"
+                FontSize="14"
+                BorderThickness="0"
+                Cursor="Hand"
+                Click="OpenLicensePopup_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                            CornerRadius="20"
+                            Padding="{TemplateBinding Padding}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

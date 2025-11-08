@@ -1,0 +1,26 @@
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.deps.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.AssemblyInfoInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.AssemblyInfo.cs
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\refint\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\ref\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\bin\Debug\net9.0\keys.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.csproj.AssemblyReference.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\bin\Debug\net9.0\keys.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.deps.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\bin\Debug\net9.0\LicenseValidatorLibrary.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.csproj.AssemblyReference.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.AssemblyInfoInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.AssemblyInfo.cs
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\refint\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\LicenseValidatorLibrary.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\LicenseValidatorLibrary\obj\Debug\net9.0\ref\LicenseValidatorLibrary.dll

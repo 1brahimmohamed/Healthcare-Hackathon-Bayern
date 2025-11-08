@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHack", "WpfHack\WpfHack.csproj", "{E446D321-FD94-47B2-93D6-84C107CE9385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseValidatorLibrary", "LicenseValidatorLibrary\LicenseValidatorLibrary.csproj", "{BB84A3FE-59B4-45EB-A1E3-DA70230F7640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothConnection", "BluetoothConnection\BluetoothConnection.csproj", "{91D49CB5-1E27-4191-8844-0711CC7F5C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E446D321-FD94-47B2-93D6-84C107CE9385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E446D321-FD94-47B2-93D6-84C107CE9385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E446D321-FD94-47B2-93D6-84C107CE9385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E446D321-FD94-47B2-93D6-84C107CE9385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB84A3FE-59B4-45EB-A1E3-DA70230F7640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB84A3FE-59B4-45EB-A1E3-DA70230F7640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB84A3FE-59B4-45EB-A1E3-DA70230F7640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB84A3FE-59B4-45EB-A1E3-DA70230F7640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D49CB5-1E27-4191-8844-0711CC7F5C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D49CB5-1E27-4191-8844-0711CC7F5C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D49CB5-1E27-4191-8844-0711CC7F5C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D49CB5-1E27-4191-8844-0711CC7F5C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

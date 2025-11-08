@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2z0mb3anJE=",
+  "success": true,
+  "projectFilePath": "C:\\MyPC\\personal\\healthcare-hackathon-bayern\\WpfHack - Copy\\LicenseValidatorLibrary\\LicenseValidatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z00538zd\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\z00538zd\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.1.2\\microsoft.identitymodel.abstractions.8.1.2.nupkg.sha512",
+    "C:\\Users\\z00538zd\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.1.2\\microsoft.identitymodel.jsonwebtokens.8.1.2.nupkg.sha512",
+    "C:\\Users\\z00538zd\\.nuget\\packages\\microsoft.identitymodel.logging\\8.1.2\\microsoft.identitymodel.logging.8.1.2.nupkg.sha512",
+    "C:\\Users\\z00538zd\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.1.2\\microsoft.identitymodel.tokens.8.1.2.nupkg.sha512",
+    "C:\\Users\\z00538zd\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.1.2\\system.identitymodel.tokens.jwt.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

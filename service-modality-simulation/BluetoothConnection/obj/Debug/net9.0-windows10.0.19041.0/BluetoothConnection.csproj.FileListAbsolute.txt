@@ -1,0 +1,16 @@
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.csproj.AssemblyReference.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\keys.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.deps.json
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\LicenseValidatorLibrary.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\bin\Debug\net9.0-windows10.0.19041.0\LicenseValidatorLibrary.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.AssemblyInfoInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.AssemblyInfo.cs
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.csproj.CoreCompileInputs.cache
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\Bluetoot.8377179E.Up2Date
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\refint\BluetoothConnection.dll
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\BluetoothConnection.pdb
+C:\MyPC\personal\healthcare-hackathon-bayern\WpfHack - Copy\BluetoothConnection\obj\Debug\net9.0-windows10.0.19041.0\ref\BluetoothConnection.dll
